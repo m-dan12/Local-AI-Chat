@@ -1,0 +1,7 @@
+*.css linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored
+*.html linguist-vendored
+*.min.js linguist-generated
+*.map linguist-generated
+*.md linguist-documentation
